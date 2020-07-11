@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Jasmin Virdi 🌸
 
 <!--
 **Jasmin2895/Jasmin2895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Jasmin Virdi currently working as a **Software Engineer at upGrad**. I enjoy learning new Tech and often breaks things a lot 😅
+I am currently working as a **Software Engineer at upGrad**. I enjoy learning new Tech and often breaks things a lot 😅
 I strongly believe that you will learn the most when you are trying to fix things 😁.
 
 Apart from this I also enjoy writing articles. You can find some of my writings on my [dev.to profile](https://dev.to/jasmin).
