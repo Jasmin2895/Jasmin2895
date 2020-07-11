@@ -22,7 +22,7 @@ Apart from this I also enjoy writing articles. You can find some of my writings 
 
 I am recently following **#100DaysOfCode** challenge to work on my side projects and explore new tech and contribute in open source 👩🏻‍💻.
 
-Recently Explored:-
+**Recently Explored**:-
 * Building desktop applications using electron app.
 * Web Monentization and it's use in applications ([Runner up in Grant For the Web and Dev Hackathon](https://dev.to/devteam/announcing-the-grant-for-the-web-x-dev-hackathon-winners-1nl4))
 * Learning about State Machines.
