@@ -25,5 +25,5 @@ I am recently following **#100DaysOfCode** challenge to work on my side projects
 **Recently Explored**:-
 * Building desktop applications using electron app.
 * Web Monentization and it's use in applications ([Runner up in Grant For the Web and Dev Hackathon](https://dev.to/devteam/announcing-the-grant-for-the-web-x-dev-hackathon-winners-1nl4))
-* Learning about State Machines.
+* Learning about State Machines it's basics and applications (working on something exciting)😜
 * [Created Webpack plugin to generate automated build for chrome extension](https://www.npmjs.com/package/extension-build-webpack-plugin)
