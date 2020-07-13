@@ -1,4 +1,4 @@
-### Hi, I am Jasmin Virdi 🌸
+### Hi, I am Jasmin Virdi (she/her) 🌸
 
 <!--
 **Jasmin2895/Jasmin2895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,9 @@ I strongly believe that you will learn the most when you are trying to fix thing
 Apart from this I also enjoy writing articles. You can find some of my writings on my [dev.to profile](https://dev.to/jasmin).
 
 I am recently following **#100DaysOfCode** challenge to work on my side projects and explore new tech and contribute in open source 👩🏻‍💻.
+
+Majorly worked on Javascrit and it's frameworks( Vue, Node and React ), databases (SQL, Redis), docker and AWS services
+
 
 **Recently Explored**:-
 * Building desktop applications using electron app.
