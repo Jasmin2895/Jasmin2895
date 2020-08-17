@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Nominated for noonies 2020 award under the category of **Best Web Monetization Innovator**. Please support by [voting](https://noonies.tech/award/best-web-monetization-innovator) for me. 
+
 I am currently working as a **Software Engineer at [upGrad](https://www.upgrad.com/)**. I enjoy learning new Tech and often breaks things a lot 😅
-I strongly believe that you will learn the most when you are trying to fix things 😁.
+I strongly believe that you will learn the most when you are trying to fix things 😁. 
 
 Apart from this I also enjoy writing articles. You can find some of my writings on my [dev.to profile](https://dev.to/jasmin).
 
