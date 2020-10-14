@@ -20,7 +20,7 @@ I strongly believe that you will learn the most when you are trying to fix thing
 
 Apart from this I also enjoy writing articles. You can find some of my writings on my [dev.to profile](https://dev.to/jasmin).
 
-I am recently following **#100DaysOfCode** challenge to work on my side projects and explore new tech and contribute in open source 👩🏻‍💻.
+I am recently following **#100DaysOfCode** challenge to work on my side projects and explore new tech and contributing in open source projects 👩🏻‍💻.
 
 🦄🦄Nominated for noonies 2020 award under the category of **Best Web Monetization Innovator**. Please support by [voting](https://noonies.tech/award/best-web-monetization-innovator) for me.🦄🦄 
 
