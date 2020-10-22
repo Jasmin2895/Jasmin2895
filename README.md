@@ -22,8 +22,6 @@ Apart from this I also enjoy writing articles. You can find some of my writings 
 
 I am recently following **#100DaysOfCode** challenge to work on my side projects and explore new tech and contributing in open source projects 👩🏻‍💻.
 
-🦄🦄Nominated for noonies 2020 award under the category of **Best Web Monetization Innovator**. Please support by [voting](https://noonies.tech/award/best-web-monetization-innovator) for me.🦄🦄 
-
 🦄🦄  Winner of Noonies 2020 Award under the category of [**Best Web Monetization Innovator**](https://hackernoon.com/2020-noonies-awards-official-winners-of-the-internet-finally-declared-wmdx3tgv). 🦄🦄
 
 Majorly worked on Javascrit and it's frameworks( Vue, Node and React ), databases (SQL, Redis), docker and AWS services
