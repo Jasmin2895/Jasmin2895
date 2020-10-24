@@ -34,3 +34,6 @@ Majorly worked on Javascrit and it's frameworks( Vue, Node and React ), database
 * [Created Webpack plugin to generate automated build for chrome extension](https://www.npmjs.com/package/extension-build-webpack-plugin)
 * Completed a Todo App which is driven by State machine and its principles. It is built using Xstate and Vue composition api
 * Created social card github actions
+
+
+[![Jasmin's github stats](https://github-readme-stats.vercel.app/api?username=Jasmin2895)](https://github.com/anuraghazra/github-readme-stats)
