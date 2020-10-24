@@ -36,6 +36,6 @@ Majorly worked on Javascrit and it's frameworks( Vue, Node and React ), database
 * Created social card github actions
 
 
-![Jasmin's github stats](https://github-readme-stats.vercel.app/api?username=Jasmin2895&show_icons=true&theme=dracula)
+![Jasmin's github stats](https://github-readme-stats.vercel.app/api?username=Jasmin2895&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmin2895&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmin2895&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
