@@ -26,6 +26,10 @@ I am recently following **#100DaysOfCode** challenge to work on my side projects
 
 Majorly worked on Javascript and it's frameworks( Vue, Node and React ), databases (SQL, Redis), docker and AWS services
 
+**Achievements**
+* [Runner-Up Grant for Web Hackathon on Dev Community](https://dev.to/devteam/announcing-the-grant-for-the-web-x-dev-hackathon-winners-1nl4)
+* [**Best Web Monetization Innovator**](https://hackernoon.com/2020-noonies-awards-official-winners-of-the-internet-finally-declared-wmdx3tgv).
+* [Runner-Up Grant for DigitalOcean App Platform Hackathon on Dev Community](https://dev.to/devteam/digitalocean-app-platform-hackathon-winners-announced-ig0)
 
 **Recently Explored**:-
 * Building desktop applications using electron app.
