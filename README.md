@@ -24,7 +24,7 @@ I am recently following **#100DaysOfCode** challenge to work on my side projects
 
 🦄🦄  Winner of Noonies 2020 Award under the category of [**Best Web Monetization Innovator**](https://hackernoon.com/2020-noonies-awards-official-winners-of-the-internet-finally-declared-wmdx3tgv). 🦄🦄
 
-Majorly worked on Javascript and it's frameworks( Vue, Node and React ), databases (SQL, Redis), docker and AWS services
+Majorly worked on Javascript and it's frameworks( Vue, Node and React ), databases (SQL, Redis), docker and AWS services. Currently learning Typescript
 
 **Achievements**
 * [Runner-Up Grant for Web Hackathon on Dev Community](https://dev.to/devteam/announcing-the-grant-for-the-web-x-dev-hackathon-winners-1nl4)
