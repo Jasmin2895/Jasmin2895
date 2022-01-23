@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ....
 -->
 
-I am a **Frontend Engineer**. I enjoy learning new Tech and often breaks things a lot 😅 <br>
+I am a **Software Engineer II** at Slack. I enjoy learning new Tech and often breaks things a lot 😅 <br>
 I strongly believe that you will learn the most when you are trying to fix things 😁. 
 
 Apart from this I also enjoy writing articles. You can find some of my writings on my [dev.to profile](https://dev.to/jasmin).
